@@ -18,16 +18,4 @@ I've created the JSON file for easy and quick customizability. If you want to do
 
 I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
 
-## Contributing
-
-If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
-
-Stay happy and keep the people you care about happy. :)
-
-`Demo`
-<img src="https://github.com/piyush168713/Happy-birthday-1/blob/main/bday_a.png?raw=true">
-  
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
